@@ -1,0 +1,100 @@
+@media only screen and (min-width: 1366px) and (max-width: 1920px) {}
+
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+@media only screen and (min-width: 520px) and (max-width: 767px) {}
+
+@media only screen and (min-width: 280px) and (max-width: 519px) {
+    
+    .contat-box {
+    padding: 20px 0px;
+}
+
+.form-contact p {
+    font-size: 17px;
+    width: 90%;
+    margin: 13px auto;
+}
+
+.form-contact h3 {
+    font-size: 25px;
+}
+
+.contact-detail-area {
+    padding: 20px 0px;
+}
+    
+    ul.contact-lst {
+    width: 100%;
+}
+
+.bring_bx h2 {
+    font-size: 30px;
+    margin: 10px 0px;
+}
+    section.testimonials {
+    padding: 20px 0 30px;
+}
+.footer-form-sec {
+    padding: 0px 0 30px;
+}
+i.fas.fa-caret-right.slick-next.key2.slick-arrow {
+    right: 0;
+    top: 98% !important;
+    font-size:26px !important;
+}
+i.fas.fa-caret-left.slick-prev.key1.slick-arrow {
+    font-size: 26px !important;
+    border-radius: 100px;
+    top: 98% !important;
+    right: 60px;
+}
+footer p, footer p>a {
+    text-align: center;
+    margin-bottom: 12px;
+}
+footer .col-md-6.text-right {
+    text-align: center;
+}
+footer .col-md-6.text-right img {
+    float: none;
+    width: 50%;
+    margin: 0 auto;
+}
+section.battel-sec.themes-padd h2.themes-h2 {
+}
+.mission-img {
+    width: 100%;
+}
+.testi-pg .test_heading h2 {
+    font-size: 40px;
+}
+.testi-pg section.testimonials_sec {
+    padding: 10px 0 0;
+}
+.testi-pg .testi_imgg {
+    margin-top: -70px;
+}
+.testi-pg .testi_imgg img {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+}
+.testi-pg .testti-bodyy {
+    padding: 40px 27px 70px;
+    height: auto;
+}
+
+}
+.testi-pg .testti-bodyy p {
+    font-size: 16px;
+    font-family: 'Roboto';
+    color: #000000;
+    line-height: 24px;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 299px) {}
